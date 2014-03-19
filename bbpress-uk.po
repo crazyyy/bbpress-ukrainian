@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-03-19 12:53+0200\n"
+"PO-Revision-Date: 2014-03-19 13:07+0200\n"
 "Last-Translator: crazyyy <crazyyy@gmail.com>\n"
 "Language-Team: crazyyy <crazyyy@gmail.com>\n"
 "X-Generator: Poedit 1.6.4\n"
@@ -208,7 +208,7 @@ msgstr ""
 
 #: includes/admin/admin.php:774
 msgid "Manage Subscriptions"
-msgstr ""
+msgstr "Керування підпискою"
 
 #: includes/admin/admin.php:775
 msgid ""
