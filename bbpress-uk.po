@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: bbPress 2.5.3\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/bbpress\n"
 "POT-Creation-Date: 2014-01-11 18:30:39+00:00\n"
-"PO-Revision-Date: 2014-03-19 13:52+0200\n"
+"PO-Revision-Date: 2014-03-24 19:19+0200\n"
 "Last-Translator: crazyyy <crazyyy@gmail.com>\n"
 "Language-Team: crazyyy <crazyyy@gmail.com>\n"
 "Language: uk_UA\n"
@@ -228,18 +228,16 @@ msgid "Forum Subscriptions"
 msgstr "Опис"
 
 #: includes/admin/admin.php:769
-#, fuzzy
 msgid "Subscribe to Forums"
-msgstr "Форуми"
+msgstr "Підписка на форуми"
 
 #: includes/admin/admin.php:770
 msgid "Now your users can subscribe to new topics in specific forums."
 msgstr ""
 
 #: includes/admin/admin.php:774
-#, fuzzy
 msgid "Manage Subscriptions"
-msgstr "Опис"
+msgstr "Редагувати підписки"
 
 #: includes/admin/admin.php:775
 msgid ""
@@ -276,7 +274,6 @@ msgid "bbPress fully supports automatic translation updates."
 msgstr ""
 
 #: includes/admin/admin.php:801
-#, fuzzy
 msgid "User capabilities"
 msgstr "Дозволити цьому учаснику:"
 
@@ -286,7 +283,6 @@ msgid ""
 msgstr ""
 
 #: includes/admin/admin.php:808 includes/admin/admin.php:912
-#, fuzzy
 msgid "Go to Forum Settings"
 msgstr "Загальні налаштування"
 
@@ -309,7 +305,6 @@ msgid "Founding Developer"
 msgstr ""
 
 #: includes/admin/admin.php:853
-#, fuzzy
 msgid "Lead Developer"
 msgstr "Розробка"
 
@@ -338,9 +333,8 @@ msgid "Update Forum"
 msgstr "Оновити форум"
 
 #: includes/admin/admin.php:949 includes/admin/admin.php:1003
-#, fuzzy
 msgid "All done!"
-msgstr "Повідомлення"
+msgstr "Усе ок!"
 
 #: includes/admin/admin.php:950 includes/admin/admin.php:1004
 msgid "Go Back"
@@ -364,9 +358,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin/admin.php:1054
-#, fuzzy
 msgid "Next Forums"
-msgstr "Форуми"
+msgstr "Наступний форум"
 
 #: includes/admin/admin.php:1072
 msgid ""
@@ -376,62 +369,52 @@ msgid ""
 msgstr ""
 
 #: includes/admin/converter.php:84
-#, fuzzy
 msgid "Database Settings"
-msgstr "Налаштування"
+msgstr "Налаштування БД"
 
 #: includes/admin/converter.php:87
 msgid "Select Platform"
 msgstr ""
 
 #: includes/admin/converter.php:91
-#, fuzzy
 msgid "Database Server"
-msgstr "Користувач бази даних:"
+msgstr "Сервер БД:"
 
 #: includes/admin/converter.php:95
-#, fuzzy
 msgid "Database Port"
-msgstr "Сервер баз даних:"
+msgstr "Порт:"
 
 #: includes/admin/converter.php:99
-#, fuzzy
 msgid "Database Name"
-msgstr "Останній коментатор"
+msgstr "Ім'я БД"
 
 #: includes/admin/converter.php:103
-#, fuzzy
 msgid "Database User"
-msgstr "Дозволити цьому учаснику:"
+msgstr "Користувач БД"
 
 #: includes/admin/converter.php:107
-#, fuzzy
 msgid "Database Password"
-msgstr "Пароль"
+msgstr "Пароль БД"
 
 #: includes/admin/converter.php:111
-#, fuzzy
 msgid "Table Prefix"
-msgstr "Префикс имен таблиць:"
+msgstr "Префікс БД:"
 
 #: includes/admin/converter.php:115
-#, fuzzy
 msgid "Options"
-msgstr "Дії"
+msgstr "Налаштування"
 
 #: includes/admin/converter.php:118
 msgid "Rows Limit"
 msgstr ""
 
 #: includes/admin/converter.php:122
-#, fuzzy
 msgid "Delay Time"
-msgstr "Дата и час:"
+msgstr "Час затримки"
 
 #: includes/admin/converter.php:126
-#, fuzzy
 msgid "Convert Users"
-msgstr "Зареєстровані учасники"
+msgstr "Перетворити користувачів"
 
 #: includes/admin/converter.php:130
 msgid "Start Over"
@@ -446,9 +429,8 @@ msgid "Starting Conversion"
 msgstr ""
 
 #: includes/admin/converter.php:248 includes/admin/converter.php:520
-#, fuzzy
 msgid "Conversion Complete"
-msgstr "Установку закінчено!"
+msgstr "Конвертацію закінчено!"
 
 #: includes/admin/converter.php:342
 msgid "No data to clean"
@@ -469,18 +451,16 @@ msgid "Converting users (%1$s - %2$s)"
 msgstr "%1$s о %2$s"
 
 #: includes/admin/converter.php:382
-#, fuzzy
 msgid "No passwords to clear"
-msgstr "Новий пароль"
+msgstr "Немає паролів для конвертації"
 
 #: includes/admin/converter.php:386
 msgid "Delete users WordPress default passwords (%1$s - %2$s)"
 msgstr ""
 
 #: includes/admin/converter.php:401
-#, fuzzy
 msgid "No forums to convert"
-msgstr "Форуми"
+msgstr "Немає форумів для конвертації"
 
 #: includes/admin/converter.php:405
 #, fuzzy
@@ -497,9 +477,8 @@ msgid "Calculating forum hierarchy (%1$s - %2$s)"
 msgstr ""
 
 #: includes/admin/converter.php:431
-#, fuzzy
 msgid "No topics to convert"
-msgstr "Теми"
+msgstr "Немає тем для конвертації"
 
 #: includes/admin/converter.php:435
 #, fuzzy
@@ -524,9 +503,8 @@ msgid "Calculating topic super stickies (%1$s - %2$s)"
 msgstr ""
 
 #: includes/admin/converter.php:476
-#, fuzzy
 msgid "No tags to convert"
-msgstr "Метки: "
+msgstr "Немає тегів для конвертації"
 
 #: includes/admin/converter.php:480
 #, fuzzy
@@ -534,9 +512,8 @@ msgid "Converting topic tags (%1$s - %2$s)"
 msgstr "Облік міток тем..."
 
 #: includes/admin/converter.php:491
-#, fuzzy
 msgid "No replies to convert"
-msgstr "Теми без відповідей"
+msgstr "Немає відповідей для конвертації"
 
 #: includes/admin/converter.php:495
 #, fuzzy
@@ -618,9 +595,8 @@ msgstr ""
 
 #: includes/admin/forums.php:142 includes/admin/replies.php:154
 #: includes/admin/topics.php:153
-#, fuzzy
 msgid "Available Actions"
-msgstr "Доступні темы"
+msgstr "Доступні дії"
 
 #: includes/admin/forums.php:144
 msgid ""
@@ -828,9 +804,8 @@ msgstr "Теми"
 #: templates/default/bbpress/loop-replies.php:32
 #: templates/default/bbpress/loop-replies.php:70
 #: templates/default/bbpress/loop-topics.php:21
-#, fuzzy
 msgid "Replies"
-msgstr "Теми без відповідей"
+msgstr "Відповіді:"
 
 #: includes/admin/forums.php:412
 #: templates/default/bbpress/content-single-topic-lead.php:18
@@ -851,9 +826,8 @@ msgid "Freshness"
 msgstr "Оновлення"
 
 #: includes/admin/forums.php:463 includes/forums/template.php:601
-#, fuzzy
 msgid "No Topics"
-msgstr "Теми"
+msgstr "Без тем"
 
 #: includes/admin/forums.php:529
 #, fuzzy
@@ -914,9 +888,8 @@ msgid "Forum draft updated. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
 msgstr ""
 
 #: includes/admin/metaboxes.php:42
-#, fuzzy
 msgid "Discussion"
-msgstr "Нові обговорення"
+msgstr "обговорення"
 
 #: includes/admin/metaboxes.php:67 includes/admin/metaboxes.php:458
 #: includes/admin/replies.php:571 includes/admin/settings.php:301
@@ -934,7 +907,6 @@ msgstr[2] "Тема"
 #: includes/admin/metaboxes.php:84 includes/admin/settings.php:325
 #: includes/replies/template.php:49 includes/replies/template.php:1619
 #: includes/topics/template.php:2923
-#, fuzzy
 msgid "Reply"
 msgid_plural "Replies"
 msgstr[0] "Відповідь"
@@ -945,9 +917,9 @@ msgstr[2] "Відповідь"
 #: includes/topics/template.php:3369
 msgid "Topic Tag"
 msgid_plural "Topic Tags"
-msgstr[0] "Теги топіка"
-msgstr[1] "Теги топіка"
-msgstr[2] "Теги топіка"
+msgstr[0] "Теги теми"
+msgstr[1] "Теги теми"
+msgstr[2] "Теги теми"
 
 #: includes/admin/metaboxes.php:127
 #, fuzzy
@@ -1308,13 +1280,12 @@ msgstr ""
 #: templates/default/bbpress/loop-replies.php:60
 #: templates/default/bbpress/loop-search.php:18
 #: templates/default/bbpress/loop-search.php:40
-#, fuzzy
 msgid "Author"
-msgstr "Архіви записів автора"
+msgstr "Автор"
 
 #: includes/admin/replies.php:626 includes/admin/replies.php:634
 msgid "No Topic"
-msgstr "Відсутній топік"
+msgstr "Відсутня тема"
 
 #: includes/admin/replies.php:652 includes/admin/replies.php:667
 #: includes/admin/topics.php:688
@@ -1493,13 +1464,12 @@ msgid "Throttle posting every"
 msgstr ""
 
 #: includes/admin/settings.php:107
-#, fuzzy
 msgid "Anonymous posting"
-msgstr "Анонимно"
+msgstr "Анонімність"
 
 #: includes/admin/settings.php:115
 msgid "Auto role"
-msgstr ""
+msgstr "Авторолі"
 
 #: includes/admin/settings.php:134 includes/admin/settings.php:1690
 #, fuzzy
@@ -1509,7 +1479,7 @@ msgstr "Версія"
 #: includes/admin/settings.php:142 includes/extend/buddypress/loader.php:218
 #: templates/default/bbpress/user-details.php:48
 msgid "Favorites"
-msgstr "Обране"
+msgstr "Обрані"
 
 #: includes/admin/settings.php:150 includes/extend/buddypress/loader.php:230
 #: templates/default/bbpress/user-details.php:58
@@ -1585,9 +1555,8 @@ msgid "Replies Created"
 msgstr "Створено"
 
 #: includes/admin/settings.php:370 includes/extend/buddypress/loader.php:285
-#, fuzzy
 msgid "Favorite Topics"
-msgstr "немає нічого обраного."
+msgstr "Обрані теми"
 
 #: includes/admin/settings.php:378
 #, fuzzy
@@ -1611,7 +1580,7 @@ msgstr "Нова тема в цьому форумі"
 
 #: includes/admin/settings.php:450
 msgid "Setting time limits and other user posting capabilities"
-msgstr ""
+msgstr "Налаштувати ліміти постингу та інші користувацькі опції"
 
 #: includes/admin/settings.php:467 includes/common/functions.php:123
 msgid "minutes"
@@ -1623,11 +1592,12 @@ msgstr "секунд"
 
 #: includes/admin/settings.php:499
 msgid "Allow guest users without accounts to create topics and replies"
-msgstr ""
+msgstr "Дозволяє гостям створювати теми та відповідати"
 
 #: includes/admin/settings.php:533
 msgid "Automatically give registered visitors the %s forum role"
 msgstr ""
+"Автоматично надавати зареєстрованним користувачам такий тип аккаунту - %s"
 
 #: includes/admin/settings.php:549
 msgid "Forum features that can be toggled on and off"
@@ -1685,16 +1655,13 @@ msgid ""
 msgstr ""
 
 #: includes/admin/settings.php:763
-#, fuzzy
 msgid "How many topics and replies to show per page"
-msgstr ""
-"Кількість обговорень, повідомлень або міток для показу на одній сторінці."
+msgstr "Кількість тем та повідомлень для показу на одній сторінці."
 
 #: includes/admin/settings.php:779 includes/admin/settings.php:795
 #: includes/admin/settings.php:826 includes/admin/settings.php:842
-#, fuzzy
 msgid "per page"
-msgstr "Сторінка не знайдена"
+msgstr "на сторінку"
 
 #: includes/admin/settings.php:810
 msgid "How many topics and replies to show per RSS page"
@@ -1730,9 +1697,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin/settings.php:1161
-#, fuzzy
 msgid "Forum settings for BuddyPress"
-msgstr "Загальні налаштування"
+msgstr "Налаштування форумів для плагіну BuddyPress"
 
 #: includes/admin/settings.php:1177
 msgid "Allow BuddyPress Groups to have their own forums"
@@ -1753,18 +1719,16 @@ msgid ""
 msgstr ""
 
 #: includes/admin/settings.php:1218
-#, fuzzy
 msgid "Forum settings for Akismet"
-msgstr "Загальні налаштування"
+msgstr "Налаштування форумів для плагіну Aksimet"
 
 #: includes/admin/settings.php:1235
 msgid "Allow Akismet to actively prevent forum spam."
 msgstr ""
 
 #: includes/admin/settings.php:1258
-#, fuzzy
 msgid "Forums Settings"
-msgstr "Налаштування"
+msgstr "Налаштування форумів"
 
 #: includes/admin/settings.php:1267
 #: templates/default/bbpress/form-user-edit.php:173
@@ -1791,19 +1755,16 @@ msgid "Use default 3306 if unsure"
 msgstr ""
 
 #: includes/admin/settings.php:1358
-#, fuzzy
 msgid "User for your database connection"
-msgstr "Сервер бази даних таблиці користувачів:"
+msgstr "Користувач БД"
 
 #: includes/admin/settings.php:1372
-#, fuzzy
 msgid "Password to access the database"
-msgstr "Пароль"
+msgstr "Пароль БД"
 
 #: includes/admin/settings.php:1386
-#, fuzzy
 msgid "Name of the database with your old forum data"
-msgstr "Им'я бази даних , в якій розміщується таблиця користувачів."
+msgstr "Ім'я бази даних , в якій розміщується стара таблиця."
 
 #: includes/admin/settings.php:1399
 msgid "Some optional parameters to help tune the conversion process."
@@ -1876,7 +1837,6 @@ msgid ""
 msgstr ""
 
 #: includes/admin/settings.php:1557
-#, fuzzy
 msgid "Main Settings"
 msgstr "Налаштування"
 
@@ -1921,6 +1881,8 @@ msgid ""
 "\"Anonymous Posting\" allows guest users who do not have accounts on your "
 "site to both create topics as well as replies."
 msgstr ""
+"\"Анонімність\" дозволяє гостям без аккаунту на вашому сайті створювати теми "
+"та відповідати анонімно"
 
 #: includes/admin/settings.php:1567
 msgid ""
@@ -2058,14 +2020,12 @@ msgid "View base"
 msgstr "Переглянути запис"
 
 #: includes/admin/settings.php:1724
-#, fuzzy
 msgid "Topic tag slug"
-msgstr "Архив меток: "
+msgstr "Тег"
 
 #: includes/admin/settings.php:1736
-#, fuzzy
 msgid "%s page"
-msgstr "Сторінка не знайдена"
+msgstr "% сторінка"
 
 #: includes/admin/settings.php:1755
 #, fuzzy
@@ -2123,47 +2083,40 @@ msgid "Repair BuddyPress Group Forum relationships"
 msgstr ""
 
 #: includes/admin/tools.php:167
-#, fuzzy
 msgid "Count topics in each forum"
-msgstr "Обране"
+msgstr "Кількість тем в кожному форумі"
 
 #: includes/admin/tools.php:168
 msgid "Count replies in each forum"
 msgstr ""
 
 #: includes/admin/tools.php:169
-#, fuzzy
 msgid "Count replies in each topic"
-msgstr "Теми без відповідей"
+msgstr "Кількість відповідей в кожній темі"
 
 #: includes/admin/tools.php:170
-#, fuzzy
 msgid "Count voices in each topic"
-msgstr "Облік повідомлень в кожному форумі"
+msgstr "Кількість голосів в кожній темі"
 
 #: includes/admin/tools.php:171
 msgid "Count spammed & trashed replies in each topic"
 msgstr ""
 
 #: includes/admin/tools.php:172
-#, fuzzy
 msgid "Count topics for each user"
-msgstr "немає нічого обраного."
+msgstr "Кількість тем на кожного користувача"
 
 #: includes/admin/tools.php:173
-#, fuzzy
 msgid "Count replies for each user"
-msgstr "Облік небажаних тем для кожного користувача...\n"
+msgstr "Кількість "
 
 #: includes/admin/tools.php:174
-#, fuzzy
 msgid "Remove trashed topics from user favorites"
-msgstr "Знищення обговорень, які були відалені, з Обраного учасників..."
+msgstr "Видалити видалені теми з обраного користувачів"
 
 #: includes/admin/tools.php:175
-#, fuzzy
 msgid "Remove trashed topics from user subscriptions"
-msgstr "Знищення обговорень, які були відалені, з Обраного учасників..."
+msgstr "Видалити видалені теми з підписок користувачів"
 
 #: includes/admin/tools.php:176
 msgid "Remove trashed forums from user subscriptions"
@@ -2186,9 +2139,8 @@ msgstr ""
 #: includes/admin/tools.php:840 includes/admin/tools.php:946
 #: includes/admin/tools.php:1006 includes/admin/tools.php:1027
 #: includes/admin/tools.php:1081
-#, fuzzy
 msgid "Failed!"
-msgstr "Вхід невдалий"
+msgstr "Невдача!"
 
 #: includes/admin/tools.php:224 includes/admin/tools.php:267
 #: includes/admin/tools.php:293 includes/admin/tools.php:460
@@ -2215,9 +2167,8 @@ msgid "Repairing BuddyPress group-forum relationships&hellip; %s"
 msgstr ""
 
 #: includes/admin/tools.php:408
-#, fuzzy
 msgid "Group Forums"
-msgstr "Форуми"
+msgstr "Групи форумів"
 
 #: includes/admin/tools.php:409
 #, fuzzy
@@ -2826,9 +2777,8 @@ msgid "right now"
 msgstr "Вам не дозволено керувати мітками."
 
 #: includes/common/functions.php:114
-#, fuzzy
 msgid "%s ago"
-msgstr "%1$s о %2$s"
+msgstr "% назад"
 
 #: includes/common/functions.php:118
 msgid "year"
@@ -3047,9 +2997,8 @@ msgid "%s Replies"
 msgstr "Тема: %s"
 
 #: includes/common/template.php:2601
-#, fuzzy
 msgid "%s Favorites"
-msgstr "Обране учасника"
+msgstr "%s обрані"
 
 #: includes/common/template.php:2605
 #, fuzzy
@@ -3342,9 +3291,8 @@ msgid "Hello World!"
 msgstr ""
 
 #: includes/core/update.php:189
-#, fuzzy
 msgid "I am the first topic in your new forums."
-msgstr "Додати цей топік до обраного"
+msgstr "Додати цю тему до обраного"
 
 #: includes/core/update.php:190
 msgid "Re: Hello World!"
@@ -3488,7 +3436,7 @@ msgstr "Шукати "
 #: includes/extend/buddypress/loader.php:293
 #: templates/default/bbpress/user-subscriptions.php:34
 msgid "Subscribed Topics"
-msgstr "Нові теми"
+msgstr "Підписані теми"
 
 #: includes/extend/buddypress/notifications.php:48
 msgid "Topic Replies"
@@ -3634,25 +3582,25 @@ msgstr "Додати форум"
 
 #: includes/forums/template.php:56 includes/forums/template.php:57
 msgid "View Forum"
-msgstr "Форум"
+msgstr "Переглянути форум"
 
 #: includes/forums/template.php:59
 msgid "No forums found"
-msgstr "Нічого не знайдено."
+msgstr "Форум не знайдено"
 
 #: includes/forums/template.php:60
 msgid "No forums found in Trash"
-msgstr "Немає форумів для оновлення!"
+msgstr "У кошику відсутні форуми"
 
 #: includes/forums/template.php:61
 #: templates/default/bbpress/form-forum.php:118
 msgid "Parent Forum:"
-msgstr "Оновити форум"
+msgstr "Батьківський форум:"
 
 #: includes/forums/template.php:840 includes/topics/template.php:1846
 #: includes/users/template.php:1058
 msgid "Subscribe"
-msgstr ""
+msgstr "Підписатись"
 
 #: includes/forums/template.php:841 includes/topics/template.php:1847
 #: includes/users/template.php:1059
@@ -3674,9 +3622,9 @@ msgstr "Нові теми"
 #: includes/forums/template.php:1966 includes/topics/template.php:2104
 msgid "%s reply"
 msgid_plural "%s replies"
-msgstr[0] "Відповідь"
-msgstr[1] "Відповідь"
-msgstr[2] "Відповідь"
+msgstr[0] "Відповідь %"
+msgstr[1] "Відповідь %"
+msgstr[2] "Відповідь %"
 
 #: includes/forums/template.php:1986
 msgid ""
@@ -3701,21 +3649,20 @@ msgid "This category contains %1$s and %2$s."
 msgstr "Цей форум містить"
 
 #: includes/forums/template.php:2008
-#, fuzzy
 msgid "This forum contains %1$s and %2$s."
-msgstr "Цей форум містить"
+msgstr "Цей форум складається з %1$ та %2$."
 
 #: includes/forums/template.php:2016
 msgid "This category contains %1$s."
-msgstr "Цей форум містить"
+msgstr "Рубрика складається з %1$"
 
 #: includes/forums/template.php:2018
 msgid "This forum contains %1$s."
-msgstr "Цей форум містить"
+msgstr "Форум складається з %1$"
 
 #: includes/forums/template.php:2022
 msgid "This forum is empty."
-msgstr "Цей форум містить"
+msgstr "Форум порожній"
 
 #: includes/replies/functions.php:142
 #, fuzzy
@@ -3756,7 +3703,7 @@ msgstr ""
 
 #: includes/replies/functions.php:213 includes/topics/functions.php:218
 msgid "<strong>ERROR</strong>: Forum does not exist."
-msgstr "<strong>ОШИБКА</strong>: bbPress %s потребує MySQL 4.0.0 або вище."
+msgstr "<strong>ПОМИЛКА</strong>: Форум відсутній."
 
 #: includes/replies/functions.php:227 includes/replies/functions.php:574
 msgid ""
@@ -3766,7 +3713,7 @@ msgstr ""
 
 #: includes/replies/functions.php:234 includes/replies/functions.php:581
 msgid "<strong>ERROR</strong>: This forum has been closed to new replies."
-msgstr "Цю тему закрыто для нових коментарів."
+msgstr "<strong>ПОМИЛКА</strong>: Цю тему закрито."
 
 #: includes/replies/functions.php:240 includes/replies/functions.php:587
 msgid ""
@@ -3881,7 +3828,7 @@ msgstr ""
 
 #: includes/replies/functions.php:1530
 msgid "<strong>ERROR:</strong> You do not have the permission to do that!"
-msgstr "У вас немає повноважень для цього."
+msgstr "<strong>ПОМИЛКА</strong>: У вас немає повноважень для цього."
 
 #: includes/replies/functions.php:1543
 #, fuzzy
@@ -3901,7 +3848,7 @@ msgstr "<strong>ОШИБКА</strong>: bbPress %s потребує MySQL 4.0.0 �
 
 #: includes/replies/functions.php:1570
 msgid "<strong>ERROR</strong>: There was a problem untrashing the reply!"
-msgstr "<strong>ОШИБКА</strong>: bbPress %s потребує MySQL 4.0.0 або вище."
+msgstr "<strong>ПОМИЛКА</strong>: сталась проблема при відновленні відповіді!"
 
 #: includes/replies/functions.php:1578
 #, fuzzy
@@ -3910,11 +3857,11 @@ msgstr "<strong>ОШИБКА</strong>: bbPress %s потребує MySQL 4.0.0 �
 
 #: includes/replies/functions.php:1992
 msgid "All Posts"
-msgstr "Повідомлення"
+msgstr "Усі записи"
 
 #: includes/replies/functions.php:2034 includes/topics/functions.php:3465
 msgid "Replies: %s"
-msgstr "Тема: %s"
+msgstr "Відповіді: %"
 
 #: includes/replies/template.php:51 includes/replies/template.php:55
 #, fuzzy
@@ -3928,15 +3875,15 @@ msgstr "Оновити форум"
 
 #: includes/replies/template.php:54
 msgid "Edit Reply"
-msgstr "Відповідь"
+msgstr "Змінити"
 
 #: includes/replies/template.php:56 includes/replies/template.php:57
 msgid "View Reply"
-msgstr "Відповідь"
+msgstr "Переглянути допис"
 
 #: includes/replies/template.php:58
 msgid "Search Replies"
-msgstr "Останні коментари"
+msgstr "Пошук дописів"
 
 #: includes/replies/template.php:59
 msgid "No replies found"
@@ -3944,7 +3891,7 @@ msgstr "Нічого не знайдено."
 
 #: includes/replies/template.php:60
 msgid "No replies found in Trash"
-msgstr "Останнім часом коментарів не було."
+msgstr "У кошику відсутні відповіді"
 
 #: includes/replies/template.php:706 includes/topics/template.php:809
 msgctxt "date at time"
@@ -3963,12 +3910,12 @@ msgstr "%1$s о %2$s"
 #: includes/replies/template.php:1098 includes/topics/template.php:1368
 #: includes/users/template.php:184
 msgid "Anonymous"
-msgstr "Анонимно"
+msgstr "Анонімно"
 
 #: includes/replies/template.php:1210 includes/topics/template.php:1481
 #: includes/users/template.php:1651
 msgid "View %s's profile"
-msgstr "Переглянути ваш профіль"
+msgstr "Переглянути профіль %s"
 
 #: includes/replies/template.php:1210 includes/topics/template.php:1481
 #: includes/users/template.php:1651
@@ -4355,7 +4302,6 @@ msgid "This topic was modified %1$s by %2$s."
 msgstr "Редаговано%1$s о %2$s"
 
 #: includes/topics/template.php:1891 includes/users/template.php:894
-#, fuzzy
 msgid "Favorite"
 msgstr "Обране"
 
@@ -4396,9 +4342,9 @@ msgstr[2] ""
 #: includes/topics/template.php:2983
 msgid "Viewing topic %2$s (of %4$s total)"
 msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Перегляд %1$ теми- %2$s з  %3$ (%4$ всього)"
+msgstr[1] "Перегляд %1$ теми- %2$s з  %3$ (%4$ всього)"
+msgstr[2] "Перегляд %1$ теми- %2$s з  %3$ (%4$ всього)"
 
 #: includes/topics/template.php:3043
 #, fuzzy
@@ -4471,9 +4417,8 @@ msgid "New Tag Name"
 msgstr "Останній коментатор"
 
 #: includes/topics/template.php:3377
-#, fuzzy
 msgid "View Topic Tag"
-msgstr "Топік "
+msgstr "Переглянути теги теми"
 
 #: includes/users/functions.php:455
 msgid ""
@@ -4548,9 +4493,8 @@ msgid "Admin"
 msgstr "Адміністрування"
 
 #: includes/users/template.php:895
-#, fuzzy
 msgid "Favorited"
-msgstr "Обране"
+msgstr "Додане"
 
 #: includes/users/template.php:1163
 #, fuzzy
@@ -4612,7 +4556,7 @@ msgstr "Ви не можете писати. Ви авторизовані?"
 
 #: templates/default/bbpress/feedback-no-access.php:13
 msgid "Private"
-msgstr "Активувати"
+msgstr "Приватне"
 
 #: templates/default/bbpress/feedback-no-access.php:16
 msgid "You do not have permission to view this forum."
@@ -4636,7 +4580,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-anonymous.php:17
 msgid "Your information:"
-msgstr "Інформація про IP"
+msgstr "Ваша інформація:"
 
 #: templates/default/bbpress/form-anonymous.php:22
 #, fuzzy
@@ -4668,7 +4612,7 @@ msgstr ""
 #: templates/default/bbpress/form-reply.php:44
 #: templates/default/bbpress/form-topic.php:61
 msgid "Your account has the ability to post unrestricted HTML content."
-msgstr ""
+msgstr "Вам не дозволено додавати HTML теги."
 
 #: templates/default/bbpress/form-forum.php:67
 msgid "Forum Name (Maximum Length: %d):"
@@ -4684,11 +4628,11 @@ msgstr ""
 
 #: templates/default/bbpress/form-forum.php:91
 msgid "Forum Type:"
-msgstr "Назва форуму:"
+msgstr "Тип форуму: "
 
 #: templates/default/bbpress/form-forum.php:123
 msgid "(No Parent)"
-msgstr "Батьківський форум:"
+msgstr "(Не батьківський)"
 
 #: templates/default/bbpress/form-forum.php:138
 #: templates/default/bbpress/form-reply-move.php:72
@@ -4697,7 +4641,7 @@ msgstr "Батьківський форум:"
 #: templates/default/bbpress/form-topic-split.php:97
 #: templates/default/bbpress/form-topic.php:203
 msgid "Submit"
-msgstr ""
+msgstr "Надіслати"
 
 #: templates/default/bbpress/form-forum.php:161
 #, fuzzy
@@ -4711,7 +4655,7 @@ msgstr "Ви не можете створювати нові теми."
 
 #: templates/default/bbpress/form-forum.php:169
 msgid "You must be logged in to create new forums."
-msgstr "Авторизуйтеся, щоб додати мітку."
+msgstr "Авторизуйтеся, щоб створювати нові форуми"
 
 #: templates/default/bbpress/form-protected.php:14
 #, fuzzy
@@ -4721,7 +4665,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-reply-move.php:24
 msgid "Move reply \"%s\""
-msgstr "Останній коментар: %s назад"
+msgstr "Перенести допис \"%s\""
 
 #: templates/default/bbpress/form-reply-move.php:29
 msgid ""
@@ -4765,9 +4709,8 @@ msgid "You do not have the permissions to edit this reply!"
 msgstr "У вас немає повноважень для цього."
 
 #: templates/default/bbpress/form-reply-move.php:85
-#, fuzzy
 msgid "You cannot edit this reply."
-msgstr "Переміщення цього топіку не виконано."
+msgstr "Заборонено змінювати цей допис."
 
 #: templates/default/bbpress/form-reply.php:36
 msgid ""
@@ -4777,7 +4720,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-reply.php:75
 msgid "Tags:"
-msgstr "Мітки:"
+msgstr "Теги:"
 
 #: templates/default/bbpress/form-reply.php:93
 #: templates/default/bbpress/form-topic.php:164
@@ -4787,7 +4730,7 @@ msgstr ""
 #: templates/default/bbpress/form-reply.php:97
 #: templates/default/bbpress/form-topic.php:168
 msgid "Notify me of follow-up replies via email"
-msgstr ""
+msgstr "Повідомляти мене про нові відповіді по email"
 
 #: templates/default/bbpress/form-reply.php:114
 #: templates/default/bbpress/form-topic.php:184
@@ -4813,11 +4756,11 @@ msgstr "Цю тему закрыто для нових коментарів."
 
 #: templates/default/bbpress/form-reply.php:174
 msgid "You cannot reply to this topic."
-msgstr "Переміщення цього топіку не виконано."
+msgstr "Відсутні права, щоб відповідати."
 
 #: templates/default/bbpress/form-reply.php:174
 msgid "You must be logged in to reply to this topic."
-msgstr "Авторизуйтеся, щоб додати мітку."
+msgstr "Авторизуйтеся, щоб відповісти."
 
 #: templates/default/bbpress/form-search.php:14
 msgid "Search for:"
@@ -4854,7 +4797,7 @@ msgstr "Опис"
 
 #: templates/default/bbpress/form-topic-merge.php:42
 msgid "Merge with this topic:"
-msgstr "Объединить метку с:"
+msgstr "Об'єднати з цією темою:"
 
 #: templates/default/bbpress/form-topic-merge.php:56
 #, fuzzy
@@ -4878,7 +4821,7 @@ msgstr "Ви не можете створювати нові теми."
 
 #: templates/default/bbpress/form-topic-merge.php:81
 msgid "Merge topic tags"
-msgstr "Объединить метку с:"
+msgstr "Об'єднати теги теми"
 
 #: templates/default/bbpress/form-topic-merge.php:106
 #: templates/default/bbpress/form-topic-split.php:110
@@ -4888,7 +4831,7 @@ msgstr "У вас немає повноважень для цього."
 #: templates/default/bbpress/form-topic-merge.php:106
 #: templates/default/bbpress/form-topic-split.php:110
 msgid "You cannot edit this topic."
-msgstr "Ви не можете створювати нові теми."
+msgstr "Ви не можете змінбвати цю тему."
 
 #: templates/default/bbpress/form-topic-split.php:24
 #, fuzzy
@@ -4916,7 +4859,7 @@ msgstr "Тема: %s"
 
 #: templates/default/bbpress/form-topic-split.php:42
 msgid "Split: %s"
-msgstr "Тема: %s"
+msgstr "Об'єднати: %s"
 
 #: templates/default/bbpress/form-topic-split.php:75
 #, fuzzy
@@ -4925,15 +4868,15 @@ msgstr "Ви не можете створювати нові теми."
 
 #: templates/default/bbpress/form-topic-split.php:80
 msgid "Copy favoriters to the new topic"
-msgstr "Ви не можете створювати нові теми."
+msgstr "Скопіювати обране до нової теми"
 
 #: templates/default/bbpress/form-topic-split.php:85
 msgid "Copy topic tags to the new topic"
-msgstr "Облік міток для кожної теми"
+msgstr "Скопіювати теги теми до нової теми"
 
 #: templates/default/bbpress/form-topic-tag.php:18
 msgid "Manage Tag: \"%s\""
-msgstr "Мітка: %s"
+msgstr "Керувати тегом: \"%s\""
 
 #: templates/default/bbpress/form-topic-tag.php:22
 msgid "Rename"
@@ -4955,7 +4898,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic-tag.php:45
 msgid "Update"
-msgstr "Оновити форум"
+msgstr "Оновити"
 
 #: templates/default/bbpress/form-topic-tag.php:62
 msgid "Merging tags together cannot be undone."
@@ -5005,27 +4948,27 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:75
 msgid "Topic Title (Maximum Length: %d):"
-msgstr ""
+msgstr "Назва теми: "
 
 #: templates/default/bbpress/form-topic.php:101
 msgid "Topic Tags:"
-msgstr "Тема:"
+msgstr "Теги теми:"
 
 #: templates/default/bbpress/form-topic.php:133
 msgid "Topic Type:"
-msgstr "Тема:"
+msgstr "Тип теми:"
 
 #: templates/default/bbpress/form-topic.php:145
 msgid "Topic Status:"
-msgstr "Стан теми&#8230;"
+msgstr "Стан теми:"
 
 #: templates/default/bbpress/form-topic.php:234
 msgid "You cannot create new topics."
-msgstr "Ви не можете створювати нові теми."
+msgstr "Вам не дозволено створювати теми"
 
 #: templates/default/bbpress/form-topic.php:234
 msgid "You must be logged in to create new topics."
-msgstr "Ви не можете створювати нові теми."
+msgstr "Ви маєте увійти для створення тем"
 
 #: templates/default/bbpress/form-user-edit.php:24
 #, fuzzy
@@ -5034,7 +4977,7 @@ msgstr "Останній коментатор"
 
 #: templates/default/bbpress/form-user-edit.php:29
 msgid "Last Name"
-msgstr "Останній коментатор"
+msgstr "Призвіще"
 
 #: templates/default/bbpress/form-user-edit.php:34
 msgid "Nickname"
@@ -5059,7 +5002,7 @@ msgstr "Дозволити цьому учаснику:"
 #: templates/default/bbpress/form-user-edit.php:74
 #: templates/default/bbpress/form-user-edit.php:77
 msgid "About the user"
-msgstr "Дозволити цьому учаснику:"
+msgstr "Про користувача"
 
 #: templates/default/bbpress/form-user-edit.php:82
 msgid "Biographical Info"
@@ -5068,7 +5011,7 @@ msgstr ""
 #: templates/default/bbpress/form-user-edit.php:90
 #: templates/default/bbpress/form-user-edit.php:93
 msgid "Account"
-msgstr "Перерахувати"
+msgstr "Профіль"
 
 #: templates/default/bbpress/form-user-edit.php:115
 msgid ""
@@ -5112,11 +5055,11 @@ msgstr ""
 
 #: templates/default/bbpress/form-user-edit.php:178
 msgid "Update Profile"
-msgstr "Оновити профіль &raquo;"
+msgstr "Оновити профіль"
 
 #: templates/default/bbpress/form-user-edit.php:178
 msgid "Update User"
-msgstr "Оновити форум"
+msgstr "Оновити користувача"
 
 #: templates/default/bbpress/form-user-login.php:28
 msgid "Keep me signed in"
@@ -5124,7 +5067,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-user-lost-pass.php:18
 msgid "Username or Email"
-msgstr "Им'я"
+msgstr "Логін чи email"
 
 #: templates/default/bbpress/form-user-lost-pass.php:27
 #, fuzzy
@@ -5220,15 +5163,15 @@ msgstr "Тема: %s"
 
 #: templates/default/bbpress/user-details.php:48
 msgid "%s's Favorites"
-msgstr "Обране учасника"
+msgstr "Обраного %s"
 
 #: templates/default/bbpress/user-details.php:58
 msgid "%s's Subscriptions"
-msgstr "Опис"
+msgstr "Підписки користувача %s"
 
 #: templates/default/bbpress/user-favorites.php:15
 msgid "Favorite Forum Topics"
-msgstr "Обране"
+msgstr "Додати тему до обраного"
 
 #: templates/default/bbpress/user-favorites.php:28
 #, fuzzy
@@ -5237,7 +5180,7 @@ msgstr "Ви не можете створювати нові теми."
 
 #: templates/default/bbpress/user-favorites.php:28
 msgid "This user has no favorite topics."
-msgstr "немає нічого обраного."
+msgstr "У користувача немає обраного"
 
 #: templates/default/bbpress/user-profile.php:24
 #, fuzzy
@@ -5261,7 +5204,7 @@ msgstr "Створено"
 
 #: templates/default/bbpress/user-replies-created.php:28
 msgid "You have not replied to any topics."
-msgstr "Ви не можете створювати нові теми."
+msgstr "У вас немає відповідей у темах"
 
 #: templates/default/bbpress/user-replies-created.php:28
 #, fuzzy
@@ -5270,7 +5213,7 @@ msgstr "Таке им'я користувача не існує."
 
 #: templates/default/bbpress/user-subscriptions.php:19
 msgid "Subscribed Forums"
-msgstr "Підфоруми"
+msgstr "Підписані форуми"
 
 #: templates/default/bbpress/user-subscriptions.php:28
 msgid "You are not currently subscribed to any forums."
@@ -5296,11 +5239,11 @@ msgstr "Тему почато"
 
 #: templates/default/bbpress/user-topics-created.php:28
 msgid "You have not created any topics."
-msgstr "Ви не можете створювати нові теми."
+msgstr "Ви не створювали теми."
 
 #: templates/default/bbpress/user-topics-created.php:28
 msgid "This user has not created any topics."
-msgstr "Таке им'я користувача не існує."
+msgstr "Користувач не створював тем"
 
 #: templates/default/bbpress-functions.php:248
 #: templates/default/bbpress-functions.php:257
@@ -5314,9 +5257,8 @@ msgid "Subscriptions are no longer active."
 msgstr "Опис"
 
 #: templates/default/bbpress-functions.php:290
-#, fuzzy
 msgid "Please login to subscribe to this forum."
-msgstr "Переміщення цього топіку не виконано."
+msgstr "Будь ласка увійдіть, щоб відписатись."
 
 #: templates/default/bbpress-functions.php:299
 #: templates/default/bbpress-functions.php:367
@@ -5326,13 +5268,13 @@ msgstr "У вас немає повноважень для цього."
 
 #: templates/default/bbpress-functions.php:307
 msgid "The forum could not be found."
-msgstr "Не вдалося створити форум!"
+msgstr "Форум не знайдено."
 
 #: templates/default/bbpress-functions.php:312
 #: templates/default/bbpress-functions.php:380
 #: templates/default/bbpress-functions.php:448
 msgid "Are you sure you meant to do that?"
-msgstr "Ви впевнені, що бажаєте видалити це: %s?"
+msgstr "Ви впевнені, що хочете це зробити? "
 
 #: templates/default/bbpress-functions.php:320
 #: templates/default/bbpress-functions.php:388
@@ -5341,13 +5283,12 @@ msgid "The request was unsuccessful. Please try again."
 msgstr ""
 
 #: templates/default/bbpress-functions.php:353
-#, fuzzy
 msgid "Favorites are no longer active."
-msgstr "Обране"
+msgstr "Обране більше не активне"
 
 #: templates/default/bbpress-functions.php:358
 msgid "Please login to make this topic a favorite."
-msgstr "Переміщення цього топіку не виконано."
+msgstr "Будь ласка увійдіть, щоб додати тему до обраного"
 
 #: templates/default/bbpress-functions.php:375
 #: templates/default/bbpress-functions.php:443
@@ -5355,9 +5296,8 @@ msgid "The topic could not be found."
 msgstr "Тему не знайдено."
 
 #: templates/default/bbpress-functions.php:426
-#, fuzzy
 msgid "Please login to subscribe to this topic."
-msgstr "Переміщення цього топіку не виконано."
+msgstr "Будь ласка увійдіть, щоб підписатись на тему"
 
 #: templates/default/extras/page-forum-statistics.php:22
 msgid "<p>Here are the statistics and popular topics of our forums.</p>"
@@ -5366,7 +5306,7 @@ msgstr ""
 #: templates/default/extras/page-topic-tags.php:22
 msgid ""
 "<p>This is a collection of tags that are currently popular on our forums.</p>"
-msgstr "Це колекція міток, які зараз найбільш популярні."
+msgstr "<p>Це колекція міток, які зараз найбільш популярні.</p>"
 
 #. Plugin Name of the plugin/theme
 msgid "bbPress"
@@ -5383,4 +5323,4 @@ msgstr ""
 
 #. Author of the plugin/theme
 msgid "The bbPress Community"
-msgstr "Нове суспільство bbPress"
+msgstr "Суспільство bbPress"
